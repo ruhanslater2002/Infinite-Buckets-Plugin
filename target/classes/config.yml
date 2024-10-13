@@ -1,0 +1,17 @@
+# Plugin coded by glaoi2002
+
+Messages:
+  PlayerNotOnlineMessage: "&8 ▶ &fPlayer &c'%player%' &fis &cnot &fonline."
+  CommandUsageMessage: "&8 ▶ &fUseage: &b/ibuckets give (waterbucket/lavabucket) (Player Name)"
+  CurrentPlayerReceiveMessage: "&8 ▶ &fYou have received %bucket%&f."
+  OnlinePlayerReceiveMessage: "&8 ▶ &fPlayer &b%player% &fhas received &r%bucket%&f."
+
+Buckets:
+  InfiniteWaterBucket:
+    BucketName: "&b&lInfinite Water Bucket &7(Right Click)"
+    BucketLore:
+      - "&7▶ This is a infinite &bwater &7bucket use carefully!"
+  InfiniteLavaBucket:
+    BucketName: "&c&lInfinite Lava Bucket &7(Right Click)"
+    BucketLore:
+      - "&7▶ This is a infinite &clava &7bucket use carefully!"

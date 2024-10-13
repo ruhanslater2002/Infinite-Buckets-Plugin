@@ -1,0 +1,9 @@
+name: EternalCraftInfiniteBuckets
+version: '1.0-SNAPSHOT'
+main: cc.eternalcraft.eternalCraftInfiniteBuckets.EternalCraftInfiniteBuckets
+api-version: '1.8.8'
+
+commands:
+  ibuckets:
+    permission: infinitebuckets.give
+    description: "Gives player a infinite water bucket."
